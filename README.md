@@ -2,7 +2,7 @@
 
 A minimalist browser extension that replaces your new tab with a life countdown timer, reminding you that time is ticking. Stay focused, live wisely.
 
-![screenshot](.\src\assets\ss.png)
+![screenshot](./src/assets/ss.png)
 
 ## Features
 
